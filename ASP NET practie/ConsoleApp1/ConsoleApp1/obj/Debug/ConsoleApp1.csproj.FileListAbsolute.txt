@@ -1,0 +1,14 @@
+C:\Users\gostj\Desktop\ASP NET practie\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\gostj\Desktop\ASP NET practie\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\gostj\Desktop\ASP NET practie\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\gostj\Desktop\ASP NET practie\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gostj\Desktop\ASP NET practie\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gostj\Desktop\ASP NET practie\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\gostj\Desktop\ASP NET practie\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\gostj\Desktop\C-Sharp\ASP NET practie\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\gostj\Desktop\C-Sharp\ASP NET practie\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\gostj\Desktop\C-Sharp\ASP NET practie\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\gostj\Desktop\C-Sharp\ASP NET practie\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gostj\Desktop\C-Sharp\ASP NET practie\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gostj\Desktop\C-Sharp\ASP NET practie\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\gostj\Desktop\C-Sharp\ASP NET practie\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
